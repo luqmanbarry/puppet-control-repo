@@ -1,3 +1,3 @@
-class profile::minecraft_server {
-  
+class profile::minecraft {
+  include minecraft
 }
